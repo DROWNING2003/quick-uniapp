@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/home",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "主页",
+        "navigationStyle": "custom",
+        "backgroundColorTop": "#F8F8F8",
+        "backgroundColorBottom": "#F8F8F8"
+      }
+    }
+    ]
+}
+
